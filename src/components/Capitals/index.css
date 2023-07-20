@@ -1,0 +1,54 @@
+/* Write your CSS here */
+.bg-container{
+    background-color: #93c5fd;
+    height:100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.capitals-container{
+    background-color: #f8fafc;
+    height:400px;
+    width:700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.heading{
+    color: #323f4b;
+    font-size:28px;
+    font-family: "Roboto";
+}
+.dropdown-container{
+    display: flex;
+    flex-direction: row;
+    
+}
+.capitals{
+    border:2px solid #cbd2d9;
+    padding:10px;
+    color: #000000;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+.capital-options{
+    font-size: 16px;
+    font-family: "Roboto";
+    color: #cbd2d9; 
+    
+}
+.desc{
+    color: #323f4b;
+    font-size:18px;
+    font-family: "Roboto";
+
+}
+.output{
+    color:#1e293b;
+    font-size: 24px;
+    font-family: "Roboto";
+
+}
